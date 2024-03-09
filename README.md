@@ -1,5 +1,4 @@
-#Basic Principles and Models
-This notebook 
+# Basic Principles and Models
 
 ## Part 1 : Data exploration
 Breast cancer tabular dataframe is created with Pandas. Features and targets are explored using pandas. Data set is splitted into train and test set . Effect of standarisation is observed on the distribution of data.
