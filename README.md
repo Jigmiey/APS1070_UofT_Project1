@@ -37,5 +37,5 @@ Decision tree's performance(mean-score cv) is compared with KNN
 ![decision tree](https://github.com/Jigmiey/APS1070_UofT_Project1/assets/48585119/d28513c8-be03-45b7-bfb7-74d7c3655c7b)
 
 ## Part 6 : Test Data
-Test data is first standarised with the same parameters used for trained set and the best KNN model (highest CV accuracy ) is apllied to test dataset for classification.
+Test data is first standarised with the same parameters used for trained set and the best KNN model (highest CV accuracy ) is applied to test dataset for classification.
 
